@@ -1,0 +1,8 @@
+../results/B1.deptrace.res:LAB3_CPI                	 :      1.560
+../results/B2.deptrace.res:LAB3_CPI                	 :      1.210
+../results/B3.deptrace.res:LAB3_CPI                	 :      1.860
+../results/B4.deptrace.res:LAB3_CPI                	 :      1.490
+../results/C1.deptrace.res:LAB3_CPI                	 :      1.270
+../results/C2.deptrace.res:LAB3_CPI                	 :      1.070
+../results/C3.deptrace.res:LAB3_CPI                	 :      1.570
+../results/C4.deptrace.res:LAB3_CPI                	 :      1.370
