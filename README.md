@@ -24,3 +24,4 @@ In addition to the basic 5-stage pipeline, there are several new data structures
 ## Notes
 
 - To validate the design of the project, the instructors provided CPI evaluation results for each of the trace files. The implementation is executable and having correct results. For out-of-order pipeline machines, although the hardware complexity is increased, the CPI can be more close to the ideal CPI (=1), which means it has less stalls in the pipeline.
+- This code is executable only on Gatech ECE server.
